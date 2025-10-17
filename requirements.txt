@@ -65,7 +65,6 @@ narwhals==2.8.0
 nest-asyncio==1.6.0
 networkx==3.3
 nltk==3.9.1
-numpy==1.26.4
 openpyxl==3.1.5
 opt-einsum==3.3.0
 optree==0.11.0
